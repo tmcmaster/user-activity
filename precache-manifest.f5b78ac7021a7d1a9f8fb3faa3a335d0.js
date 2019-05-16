@@ -16,10 +16,6 @@ self.__precacheManifest = [
     "url": "/styles.css"
   },
   {
-    "revision": "c7f3db9007916717a84368850808bdd2",
-    "url": "/manifest.webmanifest"
-  },
-  {
     "revision": "e044a63e034bf10304dad73138b8c74b",
     "url": "/vendor/webcomponents-loader.js"
   },
@@ -40,10 +36,6 @@ self.__precacheManifest = [
     "url": "/img/icons/icon-192x192.png"
   },
   {
-    "revision": "23fc57b3e5ca7fcce96bb3d8de543819",
-    "url": "/img/icons/icon-512x512.png"
-  },
-  {
     "revision": "0f94d1d1fa6eb56e54ceba65a10d5cab",
     "url": "/vendor/bundles/webcomponents-sd.js"
   },
@@ -58,5 +50,13 @@ self.__precacheManifest = [
   {
     "revision": "c73899f69a673e93653c018e4a2be04b",
     "url": "/vendor/bundles/webcomponents-sd-ce-pf.js"
+  },
+  {
+    "revision": "c7f3db9007916717a84368850808bdd2",
+    "url": "/manifest.webmanifest"
+  },
+  {
+    "revision": "23fc57b3e5ca7fcce96bb3d8de543819",
+    "url": "/img/icons/icon-512x512.png"
   }
 ];
