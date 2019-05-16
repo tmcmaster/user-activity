@@ -4,8 +4,8 @@
   "description": "playing around with WebPack to learn how to use it.",
   "private": true,
   "scripts": {
-    "repo": "open https://github.com/tmcmaster/webpack-play.git",
-    "site": "open http://tmcmaster.github.io/webpack-play",
+    "repo": "open https://github.com/tmcmaster/user-activity.git",
+    "site": "open http://tmcmaster.github.io/user-activity",
     "test": "(cd dist; (sleep 1; open http://localhost:8000/); python -m SimpleHTTPServer 8000;)",
     "webpack": "webpack",
     "webpack-dev-server": "webpack-dev-server --history-api-fallback",
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tmcmaster/webpack-play.git"
+    "url": "git+https://github.com/tmcmaster/user-activity.git"
   },
   "keywords": [
     "webpack",
@@ -28,9 +28,9 @@
   "author": "Tim McMaster",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tmcmaster/webpack-play/issues"
+    "url": "https://github.com/tmcmaster/user-activity/issues"
   },
-  "homepage": "https://github.com/tmcmaster/webpack-play#readme",
+  "homepage": "https://github.com/tmcmaster/user-activity#readme",
   "devDependencies": {
     "clean-webpack-plugin": "^0.1.19",
     "copy-webpack-plugin": "^4.5.2",
