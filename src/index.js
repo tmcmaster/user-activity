@@ -1,0 +1,1 @@
+console.log('Starting User Activity Visualiser.');
